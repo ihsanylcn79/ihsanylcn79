@@ -8,6 +8,7 @@
 
 [![E-posta](https://img.shields.io/badge/E--posta-ihsanylcn79%40outlook.com-FF512F?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:ihsanylcn79@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ihsanylcn79-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ihsanylcn79)
+[![1000Kitap](https://img.shields.io/badge/1000Kitap-m__ihsan__yalcin-F7971E?style=for-the-badge&logo=gitbook&logoColor=white)](https://1000kitap.com/m_ihsan_yalcin)
 ![Profil Görüntülenme](https://komarev.com/ghpvc/?username=ihsanylcn79&style=for-the-badge&color=DD2476&label=PROFIL+G%C3%96R%C3%9CNT%C3%9CLENME)
 
 </div>
@@ -22,6 +23,7 @@ Merhaba, ben **Muhammet İhsan Yalçın**. Bayburt Üniversitesi Bilgisayar Prog
 - **Şu an öğreniyorum:** Git ve GitHub
 - **Hedefim:** Yazılım geliştirici olmak
 - **İletişim:** [ihsanylcn79@outlook.com](mailto:ihsanylcn79@outlook.com)
+- **1000Kitap:** [m_ihsan_yalcin](https://1000kitap.com/m_ihsan_yalcin)
 
 ---
 
