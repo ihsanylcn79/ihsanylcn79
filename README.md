@@ -29,9 +29,9 @@ Merhaba, ben **Muhammet İhsan Yalçın**. Bayburt Üniversitesi Bilgisayar Prog
 
 <div align="center">
 
-![İngilizce B1](https://img.shields.io/badge/%C4%B0ngilizce-B1-FF512F?style=for-the-badge)
-![Almanca A1](https://img.shields.io/badge/Almanca-A1-DD2476?style=for-the-badge)
-![Fransızca A1](https://img.shields.io/badge/Frans%C4%B1zca-A1-F7971E?style=for-the-badge)
+![🇬🇧 İngilizce B1](https://img.shields.io/badge/%C4%B0ngilizce-B1-FF512F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDYwIDQwIj48cmVjdCB3aWR0aD0iNjAiIGhlaWdodD0iNDAiIGZpbGw9IiMwMTIxNjkiLz48cGF0aCBkPSJNMCAwTDYwIDQwTTYwIDBMMCA0MCIgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjgiLz48cGF0aCBkPSJNMCAwTDYwIDQwTTYwIDBMMCA0MCIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjMiLz48cGF0aCBkPSJNMzAgMFY0ME0wIDIwSDYwIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMTIiLz48cGF0aCBkPSJNMzAgMFY0ME0wIDIwSDYwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNyIvPjwvc3ZnPg%3D%3D)
+![🇩🇪 Almanca A1](https://img.shields.io/badge/Almanca-A1-DD2476?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDkgNiI%2BPHJlY3Qgd2lkdGg9IjkiIGhlaWdodD0iNiIgZmlsbD0iI0ZGQ0UwMCIvPjxyZWN0IHdpZHRoPSI5IiBoZWlnaHQ9IjQiIGZpbGw9IiNEMDAiLz48cmVjdCB3aWR0aD0iOSIgaGVpZ2h0PSIyIiBmaWxsPSIjMDAwIi8%2BPC9zdmc%2B)
+![🇫🇷 Fransızca A1](https://img.shields.io/badge/Frans%C4%B1zca-A1-F7971E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDMgMiI%2BPHJlY3Qgd2lkdGg9IjMiIGhlaWdodD0iMiIgZmlsbD0iI0VEMjkzOSIvPjxyZWN0IHdpZHRoPSIyIiBoZWlnaHQ9IjIiIGZpbGw9IiNGRkYiLz48cmVjdCB3aWR0aD0iMSIgaGVpZ2h0PSIyIiBmaWxsPSIjMDAyMzk1Ii8%2BPC9zdmc%2B)
 
 </div>
 
@@ -51,8 +51,8 @@ Merhaba, ben **Muhammet İhsan Yalçın**. Bayburt Üniversitesi Bilgisayar Prog
 
 - **[bp-ogrenci-kayit](https://github.com/ihsanylcn79/bp-ogrenci-kayit)** — Öğrenci Kayıt Otomasyonu (C# Windows Forms, .NET 10, SQL Server LocalDB)
 
-  ![C# Windows Forms](https://img.shields.io/badge/C%23-Windows_Forms-FF512F?style=flat-square)
-  ![.NET 10](https://img.shields.io/badge/.NET-10-DD2476?style=flat-square&logo=dotnet&logoColor=white)
-  ![SQL Server LocalDB](https://img.shields.io/badge/SQL_Server-LocalDB-F7971E?style=flat-square)
+![C# Windows Forms](https://img.shields.io/badge/C%23-Windows_Forms-FF512F?style=flat-square)
+![.NET 10](https://img.shields.io/badge/.NET-10-DD2476?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server LocalDB](https://img.shields.io/badge/SQL_Server-LocalDB-F7971E?style=flat-square)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:F7971E,50:DD2476,100:FF512F&height=120&section=footer" alt="Footer Banner" />
